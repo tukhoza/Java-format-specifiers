@@ -12,8 +12,12 @@ public class App {
 		double doubleNumber = 14.5;
 		String stringText = "The end";
 		
+		System.out.printf("The int format %d", intNumber);
+		System.out.printf("The float format %f", floatNumber);
+		System.out.printf("The long format %l", longNumber);
+		System.out.printf("The double format %f", doubleNumber);
+		System.out.printf("The string format %s", stringText);
 		
-		System.out.printf("The Fromat for int %d", intNumber);
 		
 		
 
